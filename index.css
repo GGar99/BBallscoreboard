@@ -1,0 +1,65 @@
+body {
+    color: whitesmoke;
+    margin: 0;
+    background: #1B244A;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+.TeamName {
+    width: 149px;
+    height: 36px;
+    top: 68px;
+    left: 85px;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 68px auto 21 85px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score {
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    border-radius: 5px;
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 127px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: black;
+    color: #F94F6D;
+    margin: 21px auto 26px auto;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                                   
+}
+
+button {
+    width: 45px;
+    height: 45px;
+    color: #9AABD8;
+    text-align: center;
+    font-family: Cursed Timer ULiL;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.812px; /* 154.509% */
+    background: #1B244A;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    }
